@@ -22,37 +22,35 @@ If you find a missing paper or a broken link, please open an issue or pull reque
 
 ---
 
-## Table of Contents
+## Citation
 
-- [📚 Surveys & Curated Lists](#-surveys--curated-lists)
-- [💡 Idea Generation](#-idea-generation)
-- [🔍 Literature Review & Paper Search](#-literature-review--paper-search)
-- [🧪 Coding & Experimentation](#-coding--experimentation)
-- [📊 Tables & Figures](#-tables--figures)
-- [🔬 Peer Review](#-peer-review)
-- [💬 Rebuttal](#-rebuttal)
-- [✍️ Paper Writing](#️-paper-writing)
-- [📢 Dissemination (Paper2X)](#-dissemination-paper2x)
-- [🤖 End-to-End Systems](#-end-to-end-systems)
-- [🌐 Societal & Critical Perspectives](#-societal--critical-perspectives)
-- [🛠 Tools & GitHub Repos](#-tools--github-repos)
+If you find this repository useful, please consider citing our survey paper:
+
+```bibtex
+@article{kong2026aiautoresearch,
+  title   = {A Survey on {AI} Auto-Research},
+  author  = {Kong, Lingdong and Chow, Wei and Li, Linfeng and Wang, Song and Li, Rong and Sun, Xian and Qu, Leigang and Ng, Lai Xing and Cottereau, Beno\^{i}t R. and Zhu, Jianke and Hoi, Steven C. H. and Liu, Ziwei and Chua, Tat-Seng and Ooi, Wei Tsang},
+  journal = {arXiv preprint arXiv:YOUR\_ARXIV\_ID},
+  year    = {2026}
+}
+```
 
 ---
 
-## 📚 Surveys & Curated Lists
+## Table of Contents
 
-> Survey papers and curated reading lists that provide an overview of AI for scientific research.
-
-| Name | Paper | Venue | Code |
-|------|-------|-------|------|
-| [LLM4SR](https://arxiv.org/abs/2501.04306) | [arXiv](https://arxiv.org/abs/2501.04306) | arXiv'25 | — |
-| [From Automation to Autonomy](https://arxiv.org/abs/2505.13259) | [arXiv](https://arxiv.org/abs/2505.13259) | arXiv'25 | — |
-| [AI4Research](https://arxiv.org/abs/2507.01903) | [arXiv](https://arxiv.org/abs/2507.01903) | arXiv'25 | — |
-| [A Survey of AI Scientists](https://arxiv.org/abs/2510.23045) | [arXiv](https://arxiv.org/abs/2510.23045) | arXiv'25 | — |
-| [LLMs for Scientific Idea Generation: Survey](https://arxiv.org/abs/2511.07448) | [arXiv](https://arxiv.org/abs/2511.07448) | arXiv'25 | — |
-| [LLMs for Automated Scholarly Paper Review: Survey](https://www.sciencedirect.com/science/article/pii/S1566253524005803) | [Paper](https://www.sciencedirect.com/science/article/pii/S1566253524005803) | Inf. Fusion'25 | — |
-| [awesome-ai-research-writing](https://github.com/Leey21/awesome-ai-research-writing) | — | GitHub'24 | [GitHub](https://github.com/Leey21/awesome-ai-research-writing) |
-| [Awesome-LLM-Scientific-Discovery](https://github.com/HKUST-KnowComp/Awesome-LLM-Scientific-Discovery) | — | GitHub'25 | [GitHub](https://github.com/HKUST-KnowComp/Awesome-LLM-Scientific-Discovery) |
+- [Idea Generation](#idea-generation)
+- [Literature Review & Paper Search](#literature-review--paper-search)
+- [Coding & Experimentation](#coding--experimentation)
+- [Tables & Figures](#tables--figures)
+- [Peer Review](#peer-review)
+- [Rebuttal](#rebuttal)
+- [Paper Writing](#paper-writing)
+- [Dissemination (Paper2X)](#dissemination-paper2x)
+- [End-to-End Systems](#end-to-end-systems)
+- [Societal & Critical Perspectives](#societal--critical-perspectives)
+- [Surveys & Curated Lists](#surveys--curated-lists)
+- [Tools & GitHub Repos](#tools--github-repos)
 
 ---
 
@@ -392,6 +390,23 @@ If you find a missing paper or a broken link, please open an issue or pull reque
 
 ---
 
+## 📚 Surveys & Curated Lists
+
+> Survey papers and curated reading lists that provide an overview of AI for scientific research.
+
+| Name | Paper | Venue | Code |
+|------|-------|-------|------|
+| [LLM4SR](https://arxiv.org/abs/2501.04306) | [arXiv](https://arxiv.org/abs/2501.04306) | arXiv'25 | — |
+| [From Automation to Autonomy](https://arxiv.org/abs/2505.13259) | [arXiv](https://arxiv.org/abs/2505.13259) | arXiv'25 | — |
+| [AI4Research](https://arxiv.org/abs/2507.01903) | [arXiv](https://arxiv.org/abs/2507.01903) | arXiv'25 | — |
+| [A Survey of AI Scientists](https://arxiv.org/abs/2510.23045) | [arXiv](https://arxiv.org/abs/2510.23045) | arXiv'25 | — |
+| [LLMs for Scientific Idea Generation: Survey](https://arxiv.org/abs/2511.07448) | [arXiv](https://arxiv.org/abs/2511.07448) | arXiv'25 | — |
+| [LLMs for Automated Scholarly Paper Review: Survey](https://www.sciencedirect.com/science/article/pii/S1566253524005803) | [Paper](https://www.sciencedirect.com/science/article/pii/S1566253524005803) | Inf. Fusion'25 | — |
+| [awesome-ai-research-writing](https://github.com/Leey21/awesome-ai-research-writing) | — | GitHub'24 | [GitHub](https://github.com/Leey21/awesome-ai-research-writing) |
+| [Awesome-LLM-Scientific-Discovery](https://github.com/HKUST-KnowComp/Awesome-LLM-Scientific-Discovery) | — | GitHub'25 | [GitHub](https://github.com/HKUST-KnowComp/Awesome-LLM-Scientific-Discovery) |
+
+---
+
 ## 🛠 Tools & GitHub Repos
 
 > Open-source tools, frameworks, and curated resource lists for AI-assisted research (not directly tied to a single paper).
@@ -442,21 +457,6 @@ If you find a missing paper or a broken link, please open an issue or pull reque
 | [paper-reviewer](https://github.com/deep-diver/paper-reviewer) | ~824 | arXiv paper reviews + blog posts |
 | [ai-peer-review](https://github.com/poldrack/ai-peer-review) | ~123 | Multi-LLM reviews + meta-review synthesis |
 | [openreviewer](https://github.com/maxidl/openreviewer) | ~9 | Llama-8B fine-tuned on 79K expert reviews |
-
----
-
-## Citation
-
-If you find this repository useful, please consider citing our survey paper:
-
-```bibtex
-@article{kong2026aiautoresearch,
-  title   = {A Survey on {AI} Auto-Research},
-  author  = {Kong, Lingdong and Chow, Wei and Li, Linfeng and Wang, Song and Li, Rong and Sun, Xian and Qu, Leigang and Ng, Lai Xing and Cottereau, Beno\^{i}t R. and Zhu, Jianke and Hoi, Steven C. H. and Liu, Ziwei and Chua, Tat-Seng and Ooi, Wei Tsang},
-  journal = {arXiv preprint arXiv:YOUR\_ARXIV\_ID},
-  year    = {2026}
-}
-```
 
 ---
 
