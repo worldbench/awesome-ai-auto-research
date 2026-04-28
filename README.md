@@ -741,52 +741,53 @@ If you find this work helpful for your research, please kindly consider citing o
 
 | Repository | Stars | Description |
 |-----------|-------|-------------|
-| [Awesome-Deep-Research](https://github.com/DavidZWZ/Awesome-Deep-Research) | ~684 | Up-to-date collection of agentic deep research resources |
-| [Awesome-Scientific-Language-Models](https://github.com/yuzhimanhua/Awesome-Scientific-Language-Models) | ~647 | Survey of scientific LLMs (EMNLP'24) |
-| [Awesome-LLM-Scientific-Discovery](https://github.com/HKUST-KnowComp/Awesome-LLM-Scientific-Discovery) | ~319 | Three-level autonomy framework (EMNLP'25) |
-| [Awesome-AI-Scientist-Papers](https://github.com/openags/Awesome-AI-Scientist-Papers) | ~136 | Resources on AI Scientist systems |
-| [Awesome-Auto-Research-Tools](https://github.com/handsome-rich/Awesome-Auto-Research-Tools) | ~129 | Automated research tools catalog |
-| [awesome-autoresearch](https://github.com/alvinunreal/awesome-autoresearch) | — | Autonomous improvement loops and research agents |
+| [Awesome-Deep-Research](https://github.com/DavidZWZ/Awesome-Deep-Research) | [![GitHub](https://img.shields.io/github/stars/DavidZWZ/Awesome-Deep-Research)](https://github.com/DavidZWZ/Awesome-Deep-Research) | Up-to-date collection of agentic deep research resources |
+| [Awesome-Scientific-Language-Models](https://github.com/yuzhimanhua/Awesome-Scientific-Language-Models) | [![GitHub](https://img.shields.io/github/stars/yuzhimanhua/Awesome-Scientific-Language-Models)](https://github.com/yuzhimanhua/Awesome-Scientific-Language-Models) | Survey of scientific LLMs (EMNLP'24) |
+| [Awesome-LLM-Scientific-Discovery](https://github.com/HKUST-KnowComp/Awesome-LLM-Scientific-Discovery) | [![GitHub](https://img.shields.io/github/stars/HKUST-KnowComp/Awesome-LLM-Scientific-Discovery)](https://github.com/HKUST-KnowComp/Awesome-LLM-Scientific-Discovery) | Three-level autonomy framework (EMNLP'25) |
+| [Awesome-AI-Scientist-Papers](https://github.com/openags/Awesome-AI-Scientist-Papers) | [![GitHub](https://img.shields.io/github/stars/openags/Awesome-AI-Scientist-Papers)](https://github.com/openags/Awesome-AI-Scientist-Papers) | Resources on AI Scientist systems |
+| [Awesome-Auto-Research-Tools](https://github.com/handsome-rich/Awesome-Auto-Research-Tools) | [![GitHub](https://img.shields.io/github/stars/handsome-rich/Awesome-Auto-Research-Tools)](https://github.com/handsome-rich/Awesome-Auto-Research-Tools) | Automated research tools catalog |
+| [awesome-autoresearch](https://github.com/alvinunreal/awesome-autoresearch) | [![GitHub](https://img.shields.io/github/stars/alvinunreal/awesome-autoresearch)](https://github.com/alvinunreal/awesome-autoresearch) | Autonomous improvement loops and research agents |
+| [awesome-ai-research-writing](https://github.com/Leey21/awesome-ai-research-writing) | [![GitHub](https://img.shields.io/github/stars/Leey21/awesome-ai-research-writing)](https://github.com/Leey21/awesome-ai-research-writing) | Prompt templates and agent skills for AI-assisted writing |
 
 
 ### Idea Generation
 
 | Repository | Stars | Description |
 |-----------|-------|-------------|
-| [Virtual-Scientists](https://github.com/RenqiChen/Virtual-Scientists) | ~66 | VirSci: multi-agent collaborative idea generation (ACL'25) |
-| [ResearchAgent](https://github.com/JinheonBaek/ResearchAgent) | ~29 | Iterative idea proposal with reviewing agents |
+| [Virtual-Scientists](https://github.com/RenqiChen/Virtual-Scientists) | [![GitHub](https://img.shields.io/github/stars/RenqiChen/Virtual-Scientists)](https://github.com/RenqiChen/Virtual-Scientists) | VirSci: multi-agent collaborative idea generation (ACL'25) |
+| [ResearchAgent](https://github.com/JinheonBaek/ResearchAgent) | [![GitHub](https://img.shields.io/github/stars/JinheonBaek/ResearchAgent)](https://github.com/JinheonBaek/ResearchAgent) | Iterative idea proposal with reviewing agents |
 
 
 ### Literature Review
 
 | Repository | Stars | Description |
 |-----------|-------|-------------|
-| [paper-qa](https://github.com/Future-House/paper-qa) | ~8,300 | PaperQA2: superhuman RAG for scientific Q&A |
-| [local-deep-research](https://github.com/LearningCircuit/local-deep-research) | ~4,200 | Fully local deep research |
-| [researchgpt](https://github.com/mukulpatnaik/researchgpt) | ~3,500 | Conversational interaction with research papers |
-| [gpt-researcher](https://github.com/assafelovic/gpt-researcher) | — | Autonomous agent for comprehensive online research |
-| [AutoSurvey](https://github.com/AutoSurveys/AutoSurvey) | ~462 | Automated comprehensive literature surveys |
-| [storm](https://github.com/stanford-oval/storm) | — | Wikipedia-style article generation (STORM) |
+| [paper-qa](https://github.com/Future-House/paper-qa) | [![GitHub](https://img.shields.io/github/stars/Future-House/paper-qa)](https://github.com/Future-House/paper-qa) | PaperQA2: superhuman RAG for scientific Q&A |
+| [local-deep-research](https://github.com/LearningCircuit/local-deep-research) | [![GitHub](https://img.shields.io/github/stars/LearningCircuit/local-deep-research)](https://github.com/LearningCircuit/local-deep-research) | Fully local deep research |
+| [researchgpt](https://github.com/mukulpatnaik/researchgpt) | [![GitHub](https://img.shields.io/github/stars/mukulpatnaik/researchgpt)](https://github.com/mukulpatnaik/researchgpt) | Conversational interaction with research papers |
+| [gpt-researcher](https://github.com/assafelovic/gpt-researcher) | [![GitHub](https://img.shields.io/github/stars/assafelovic/gpt-researcher)](https://github.com/assafelovic/gpt-researcher) | Autonomous agent for comprehensive online research |
+| [AutoSurvey](https://github.com/AutoSurveys/AutoSurvey) | [![GitHub](https://img.shields.io/github/stars/AutoSurveys/AutoSurvey)](https://github.com/AutoSurveys/AutoSurvey) | Automated comprehensive literature surveys |
+| [storm](https://github.com/stanford-oval/storm) | [![GitHub](https://img.shields.io/github/stars/stanford-oval/storm)](https://github.com/stanford-oval/storm) | Wikipedia-style article generation (STORM) |
 
 
 ### Coding & Experiments
 
 | Repository | Stars | Description |
 |-----------|-------|-------------|
-| [autoresearch (Karpathy)](https://github.com/karpathy/autoresearch) | ~55,400 | Autonomous ML experiments, ~12 exp/hour overnight |
-| [Paper2Code](https://github.com/going-doer/Paper2Code) | ~4,300 | Multi-agent ML paper to code transformation |
-| [RD-Agent](https://github.com/microsoft/RD-Agent) | — | Microsoft's LLM framework for autonomous data science |
-| [MLAgentBench](https://github.com/snap-stanford/MLAgentBench) | ~334 | 13 end-to-end ML experimentation tasks |
-| [SWE-bench](https://github.com/princeton-nlp/SWE-bench) | — | Real-world GitHub issue resolution benchmark |
+| [autoresearch (Karpathy)](https://github.com/karpathy/autoresearch) | [![GitHub](https://img.shields.io/github/stars/karpathy/autoresearch)](https://github.com/karpathy/autoresearch) | Autonomous ML experiments, ~12 exp/hour overnight |
+| [Paper2Code](https://github.com/going-doer/Paper2Code) | [![GitHub](https://img.shields.io/github/stars/going-doer/Paper2Code)](https://github.com/going-doer/Paper2Code) | Multi-agent ML paper to code transformation |
+| [RD-Agent](https://github.com/microsoft/RD-Agent) | [![GitHub](https://img.shields.io/github/stars/microsoft/RD-Agent)](https://github.com/microsoft/RD-Agent) | Microsoft's LLM framework for autonomous data science |
+| [MLAgentBench](https://github.com/snap-stanford/MLAgentBench) | [![GitHub](https://img.shields.io/github/stars/snap-stanford/MLAgentBench)](https://github.com/snap-stanford/MLAgentBench) | 13 end-to-end ML experimentation tasks |
+| [SWE-bench](https://github.com/princeton-nlp/SWE-bench) | [![GitHub](https://img.shields.io/github/stars/princeton-nlp/SWE-bench)](https://github.com/princeton-nlp/SWE-bench) | Real-world GitHub issue resolution benchmark |
 
 
 ### Peer Review
 
 | Repository | Stars | Description |
 |-----------|-------|-------------|
-| [paper-reviewer](https://github.com/deep-diver/paper-reviewer) | ~824 | arXiv paper reviews + blog posts |
-| [ai-peer-review](https://github.com/poldrack/ai-peer-review) | ~123 | Multi-LLM reviews + meta-review synthesis |
-| [openreviewer](https://github.com/maxidl/openreviewer) | ~9 | Llama-8B fine-tuned on 79K expert reviews |
+| [paper-reviewer](https://github.com/deep-diver/paper-reviewer) | [![GitHub](https://img.shields.io/github/stars/deep-diver/paper-reviewer)](https://github.com/deep-diver/paper-reviewer) | arXiv paper reviews + blog posts |
+| [ai-peer-review](https://github.com/poldrack/ai-peer-review) | [![GitHub](https://img.shields.io/github/stars/poldrack/ai-peer-review)](https://github.com/poldrack/ai-peer-review) | Multi-LLM reviews + meta-review synthesis |
+| [openreviewer](https://github.com/maxidl/openreviewer) | [![GitHub](https://img.shields.io/github/stars/maxidl/openreviewer)](https://github.com/maxidl/openreviewer) | Llama-8B fine-tuned on 79K expert reviews |
 
 <div align="center">
 
