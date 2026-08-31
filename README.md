@@ -452,6 +452,7 @@ Nine AI-generated posters -- six portrait and three landscape -- produced from t
 | `MLReplicate` | [![arXiv](https://img.shields.io/badge/arXiv-2605.16616-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2605.16616)<br>MLReplicate: Benchmarking Autonomous Research Systems for Machine Learning Reproducibility | arXiv '26 | - | - |
 | `BeyondSWE` | [![arXiv](https://img.shields.io/badge/arXiv-2603.03194-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2603.03194)<br>BeyondSWE: Can Current Code Agent Survive Beyond Single-Repo Bug Fixing? | arXiv '26 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://aweai-team.github.io/BeyondSWE/) | [![GitHub](https://img.shields.io/github/stars/AweAI-Team/BeyondSWE)](https://github.com/AweAI-Team/BeyondSWE) |
 | `NatureBench` | [![arXiv](https://img.shields.io/badge/arXiv-2606.24530-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2606.24530)<br>NatureBench: Can Coding Agents Match the Published SOTA of Nature-Family Papers? | arXiv '26 | - | - |
+| `SciCoQA` | [![arXiv](https://img.shields.io/badge/arXiv-2601.12910-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2601.12910)<br>SciCoQA: Quality Assurance for Scientific Paper--Code Alignment | ACL '26 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://ukplab.github.io/scicoqa/) | [![GitHub](https://img.shields.io/github/stars/UKPLab/scicoqa)](https://github.com/UKPLab/scicoqa) |
 ||
 
 
