@@ -1073,6 +1073,6 @@ Nine AI-generated posters -- six portrait and three landscape -- produced from t
 
 **[⬆ Back to Top](#awesome-ai-auto-research)**
 
-*Last updated: 2026-06-21 · Maintained by [WorldBench](https://github.com/worldbench)*
+*Last updated: 2026-08-31 · Maintained by [WorldBench](https://github.com/worldbench)*
 
 </div>
