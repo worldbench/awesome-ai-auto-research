@@ -980,7 +980,7 @@ Nine AI-generated posters -- six portrait and three landscape -- produced from t
 | `CausalForge` | [![arXiv](https://img.shields.io/badge/arXiv-2607.22511-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2607.22511)<br>CausalForge: A Formally Grounded, Self-Improving Agentic Framework for Automated Research in Causal Inference | arXiv '26 | - | - |
 | `World-Model Scaling` | [![arXiv](https://img.shields.io/badge/arXiv-2608.12564-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.12564)<br>Scaling Automatic Research Agents via World Models | arXiv '26 | - | - |
 | `Research Preference Models` | [![arXiv](https://img.shields.io/badge/arXiv-2608.13940-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.13940)<br>AI Research Preference Models | arXiv '26 | - | - |
-| `AIDE2` | [![arXiv](https://img.shields.io/badge/arXiv-2609.26457-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2609.26457)<br>Recursive self-improvement of AI research agents | arXiv '26 | - | - |
+| `AIDE2` | [![arXiv](https://img.shields.io/badge/arXiv-2609.26457-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2609.26457)<br>Recursive self-improvement of AI research agents | arXiv '26 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://www.weco.ai/blog/first-evidence-of-recursive-self-improvement) | - |
 | `AIM` | [![arXiv](https://img.shields.io/badge/arXiv-2609.38445-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2609.38445)<br>AIM: Agentic Idea Management for Automated Research | arXiv '26 | - | - |
 ||
 
