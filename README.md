@@ -220,6 +220,7 @@ Nine AI-generated posters -- six portrait and three landscape -- produced from t
 
 | Model | Paper | Venue | Website | GitHub |
 |:-:|:-|:-:|:-:|:-:|
+| `ActLim-Bench` | [![arXiv](https://img.shields.io/badge/arXiv-2610.23038-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.23038)<br>Where Research Ideation Begins: Forward-Citation Supervision for Actionable Limitation Generation | arXiv '26 | - | - |
 | `IdeaAnchor` | [![arXiv](https://img.shields.io/badge/arXiv-2610.08781-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.08781)<br>IdeaAnchor: Teaching LLMs to Turn Literature into Research Ideas | arXiv '26 | [Project](https://ziyu.ch/research/ideaanchor) | - |
 | `SGHA` | [![arXiv](https://img.shields.io/badge/arXiv-2608.17501-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.17501)<br>SGHA: Evidence-Grounded Research Problem Discovery with Local Language Models | arXiv '26 | - | - |
 | `MAIL` | [![arXiv](https://img.shields.io/badge/arXiv-2608.28315-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.28315)<br>MAIL: Memory-driven, Adaptive, Incremental, and Literature-grounded Framework for Hypothesis Generation in Chemistry | arXiv '26 | - | - |
@@ -314,6 +315,7 @@ Nine AI-generated posters -- six portrait and three landscape -- produced from t
 
 | Model | Paper | Venue | Website | GitHub |
 |:-:|:-|:-:|:-:|:-:|
+| `ReviewPilot` | [![arXiv](https://img.shields.io/badge/arXiv-2610.21042-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.21042)<br>ReviewPilot: A Multi-Agent System for Screening and Data Extraction in Systematic Reviews | arXiv '26 | - | [![GitHub](https://img.shields.io/github/stars/ZhaoqianXue/ReviewPilot)](https://github.com/ZhaoqianXue/ReviewPilot) |
 | `DAS` | [![arXiv](https://img.shields.io/badge/arXiv-2608.18034-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.18034)<br>Deep Academic Survey: Stateful Agentic Closed-Loop Paradigm for Academic Survey Automation | arXiv '26 | - | - |
 | `Tree-of-Concerns` | [![arXiv](https://img.shields.io/badge/arXiv-2608.20777-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.20777)<br>Tree-of-Concerns: Hierarchical Multi-Agent Debate for Unstated-Limitation Extraction in Scientific Critique | EMNLP '26 | - | - |
 ||
@@ -342,6 +344,10 @@ Nine AI-generated posters -- six portrait and three landscape -- produced from t
 
 | Model | Paper | Venue | Website | GitHub |
 |:-:|:-|:-:|:-:|:-:|
+| `MIRA` | [![arXiv](https://img.shields.io/badge/arXiv-2610.25926-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.25926)<br>MIRA: A Multimodal Illustrated Deep Research Agent for Controllable Reports | arXiv '26 | [Project](https://mira-mmdeepresearch.github.io/) | - |
+| `OpenSaC` | [![arXiv](https://img.shields.io/badge/arXiv-2610.25779-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.25779)<br>OpenSaC: A Python Library for Search as Code in Deep Research Agents | arXiv '26 | - | [![GitHub](https://img.shields.io/github/stars/liuqi6777/OpenSaC)](https://github.com/liuqi6777/OpenSaC) |
+| `HybridResearcher` | [![arXiv](https://img.shields.io/badge/arXiv-2610.24899-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.24899)<br>HybridResearcher: Bridging the Structured-Unstructured Boundary for Deep Research Agents | arXiv '26 | - | - |
+| `JevGPT` | [![arXiv](https://img.shields.io/badge/arXiv-2610.18272-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.18272)<br>JevGPT: Thinking Fast and Slow in Autonomous Research | arXiv '26 | [Project](https://sunyasheng.github.io/projects/JevGPT.html) | [![GitHub](https://img.shields.io/github/stars/sunyasheng/JevGPT)](https://github.com/sunyasheng/JevGPT) |
 | `Crase` | [![arXiv](https://img.shields.io/badge/arXiv-2608.24809-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.24809)<br>Structurally-bounded Agentic Graph Exploration for Evidence-Grounded Scholarly DeepSearch | arXiv '26 | - | - |
 | `DeepWeaver` | [![arXiv](https://img.shields.io/badge/arXiv-2608.18988-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.18988)<br>DeepWeaver: Bridging the Evidence Synthesis Gap in Open-Ended Question Answering | arXiv '26 | - | - |
 | `AgentR` | [![arXiv](https://img.shields.io/badge/arXiv-2608.15264-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.15264)<br>AgentR A Stateful and Recovery-Aware Software Architecture for LLM-based Auditable Workflows | arXiv '26 | - | - |
@@ -435,6 +441,8 @@ Nine AI-generated posters -- six portrait and three landscape -- produced from t
 
 | Model | Paper | Venue | Website | GitHub |
 |:-:|:-|:-:|:-:|:-:|
+| `BMD` | [![arXiv](https://img.shields.io/badge/arXiv-2610.25747-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.25747)<br>Bayesian Model Discovery with Language Models: Closing the Loop between Hypotheses and Experiments | arXiv '26 | - | - |
+| `DAGLoop` | [![arXiv](https://img.shields.io/badge/arXiv-2610.25089-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.25089)<br>DAGLoop: Aligning Method Design with Experimental Feedback in Automated AI Research | arXiv '26 | [Project](https://github.com/deng34567/DAGLoop) | - |
 | `ResearchTrails` | [![arXiv](https://img.shields.io/badge/arXiv-2610.07184-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.07184)<br>Learning Scientific Exploration from Human Research Decision Trajectories | arXiv '26 | [Project](https://researchtrails.org) | [Code](https://github.com/xuchengong/ResearchTrails) |
 | `Praxist` | [![arXiv](https://img.shields.io/badge/arXiv-2608.25955-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.25955)<br>Praxist: From Experimental Artifacts to Solution Lineages | arXiv '26 | - | - |
 | `Skill-Based Baselines` | [![arXiv](https://img.shields.io/badge/arXiv-2608.23336-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.23336)<br>Can Coding Agents Build Robust Baselines? A Skill-Based Approach for Automating the Medical Imaging Model-Development Pipeline | MICCAI '26 | - | - |
@@ -469,6 +477,10 @@ Nine AI-generated posters -- six portrait and three landscape -- produced from t
 
 | Model | Paper | Venue | Website | GitHub |
 |:-:|:-|:-:|:-:|:-:|
+| `VibeTraining-Bench` | [![arXiv](https://img.shields.io/badge/arXiv-2610.26342-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.26342)<br>VibeTraining-Bench: Data-Trainer-Harness Co-Design for Iterative System Improvement | arXiv '26 | - | - |
+| `Auto-MD-bench` | [![arXiv](https://img.shields.io/badge/arXiv-2610.25069-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.25069)<br>Auto-MD-bench: Evaluating Autoresearch Agents for Real-World Medical Tasks | arXiv '26 | - | [![GitHub](https://img.shields.io/github/stars/Edwin0080/Auto-MD-bench)](https://github.com/Edwin0080/Auto-MD-bench) |
+| `Author-in-loop Audit` | [![arXiv](https://img.shields.io/badge/arXiv-2610.22465-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.22465)<br>Author-in-the-loop Agentic Reproducibility Auditing for a Machine Learning Conference | arXiv '26 | - | - |
+| `Autonomous Science Bench` | [![arXiv](https://img.shields.io/badge/arXiv-2610.18449-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.18449)<br>Autonomous Science Bench: Evaluating AI Agents for Autonomous Scientific Discovery | arXiv '26 | [Project](https://yibow.me/autonomous-science-bench) | [![GitHub](https://img.shields.io/github/stars/Yibo-Wen/as-bench)](https://github.com/Yibo-Wen/as-bench) |
 | `ST-Bench` | [![arXiv](https://img.shields.io/badge/arXiv-2610.07763-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.07763)<br>ST-Bench: A Spatial-Temporal Benchmark for Multi-Agent System Generation on Scientific Research Tasks | arXiv '26 | - | - |
 | `MMPostTrainBench` | [![arXiv](https://img.shields.io/badge/arXiv-2610.05398-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.05398)<br>MMPostTrainBench: Benchmarking Autonomous Research for Multimodal Post-Training | arXiv '26 | - | [Code](https://github.com/sod1010/MMPostTrainBench) |
 | `Experimental Fidelity` | [![arXiv](https://img.shields.io/badge/arXiv-2608.26753-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.26753)<br>Beyond Execution: Auditing Experimental Fidelity in LLM-Driven Scientific Research | arXiv '26 | - | - |
@@ -657,6 +669,7 @@ Nine AI-generated posters -- six portrait and three landscape -- produced from t
 
 | Model | Paper | Venue | Website | GitHub |
 |:-:|:-|:-:|:-:|:-:|
+| `RoundtableReview` | [![arXiv](https://img.shields.io/badge/arXiv-2610.24050-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.24050)<br>Discuss More, Comment Less: Boosting Automated Research via Multi-Perspective Collaborative Review | arXiv '26 | - | - |
 ||
 | `ChatReviewer` | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://github.com/nishiwen1214/ChatReviewer)<br>ChatReviewer: ChatGPT-based Paper Reviewing and Response Generation | GitHub '23 | - | [![GitHub](https://img.shields.io/github/stars/nishiwen1214/ChatReviewer)](https://github.com/nishiwen1214/ChatReviewer) |
 | `AI-Peer-Review` | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://github.com/poldrack/ai-peer-review)<br>AI-Peer-Review | GitHub '24 | - | [![GitHub](https://img.shields.io/github/stars/poldrack/ai-peer-review)](https://github.com/poldrack/ai-peer-review) |
@@ -735,6 +748,7 @@ Nine AI-generated posters -- six portrait and three landscape -- produced from t
 
 | Model | Paper | Venue | Website | GitHub |
 |:-:|:-|:-:|:-:|:-:|
+| `PremiseCheck` | [![arXiv](https://img.shields.io/badge/arXiv-2610.21046-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.21046)<br>PremiseCheck: Efficient Fact-Checking of Human and AI Peer Reviews | arXiv '26 | [Project](https://openlair.github.io/premisecheck/) | [![GitHub](https://img.shields.io/github/stars/OpenLAIR/PremiseCheck)](https://github.com/OpenLAIR/PremiseCheck) |
 | `VERA-RL` | [![arXiv](https://img.shields.io/badge/arXiv-2608.26596-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.26596)<br>Not Just Reason, Not Just Scan: Reinforcement Learning for Proactive Scientific Error Verification over Academic Paper | EMNLP '26 | - | - |
 ||
 | `Review Survey` | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://www.sciencedirect.com/science/article/pii/S1566253525004051)<br>More than Half of Researchers Now Use AI for Peer Review — often Against Guidance | IF '25 | - | - |
@@ -902,6 +916,7 @@ Nine AI-generated posters -- six portrait and three landscape -- produced from t
 
 | Model | Paper | Venue | Website | GitHub |
 |:-:|:-|:-:|:-:|:-:|
+| `Agentic Scientist` | [![arXiv](https://img.shields.io/badge/arXiv-2610.18933-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.18933)<br>The Agentic Scientist: Orchestrating Coding Agents for Automated Scientific (Co-)Discovery | arXiv '26 | - | [![GitHub](https://img.shields.io/github/stars/SakanaAI/AI-Scientist-v3)](https://github.com/SakanaAI/AI-Scientist-v3) |
 | `Gemini Co-Scientist` | [![arXiv](https://img.shields.io/badge/arXiv-2608.26701-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.26701)<br>Accelerating Scientific Research with Gemini in the Real-World | arXiv 2026 | - | - |
 | `AutoResearch` | [![arXiv](https://img.shields.io/badge/arXiv-2608.17906-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.17906)<br>AutoResearch: Insight In, Hallucination Out | arXiv 2026 | - | - |
 | `Eureka` | [![arXiv](https://img.shields.io/badge/arXiv-2608.19047-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.19047)<br>Eureka: Task-Conditioned Meta-Agent Orchestration for Scientific Discovery | arXiv 2026 | - | - |
@@ -947,6 +962,7 @@ Nine AI-generated posters -- six portrait and three landscape -- produced from t
 
 | Model | Paper | Venue | Website | GitHub |
 |:-:|:-|:-:|:-:|:-:|
+| `Self-Building Labs` | [![arXiv](https://img.shields.io/badge/arXiv-2610.23826-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.23826)<br>Self-Building Labs | arXiv '26 | [Project](https://self-building-labs.github.io/) | - |
 | `EvoCast` | [![arXiv](https://img.shields.io/badge/arXiv-2610.04517-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.04517)<br>EvoCast: Reliable Autonomous Research Agents for Iterative Forecasting Architecture Evolution | arXiv '26 | - | [Code](https://github.com/18e0-x/EvoCast) |
 | `AutoSR` | [![arXiv](https://img.shields.io/badge/arXiv-2608.16876-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.16876)<br>AutoSR: Automatic Symbolic Regression by Searching Research States | arXiv 2026 | - | - |
 | `The AI Engineer` | [![arXiv](https://img.shields.io/badge/arXiv-2608.21976-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.21976)<br>Closed-loop AI achieves certifiable engineering design | arXiv 2026 | - | - |
@@ -970,6 +986,14 @@ Nine AI-generated posters -- six portrait and three landscape -- produced from t
 
 | Model | Paper | Venue | Website | GitHub |
 |:-:|:-|:-:|:-:|:-:|
+| `Epi` | [![arXiv](https://img.shields.io/badge/arXiv-2610.24944-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.24944)<br>Epi: Towards a Persistent, Self-Improving Agent for Autonomous Research | arXiv '26 | [Project](https://bakeai.inc/research/articles/epi/) | [Results](https://github.com/BakeLab/Epi-results) |
+| `MELD` | [![arXiv](https://img.shields.io/badge/arXiv-2610.24454-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.24454)<br>MELD: Recursive Self-Improvement via Hierarchical Coordination for Multi-Agent Scientific Discovery | arXiv '26 | - | - |
+| `DiscoveryRSI` | [![arXiv](https://img.shields.io/badge/arXiv-2610.23839-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.23839)<br>DiscoveryRSI: Recursively Learning to Discover Valuable Hypotheses | arXiv '26 | - | [![GitHub](https://img.shields.io/github/stars/Gen-Verse/DiscoveryRSI)](https://github.com/Gen-Verse/DiscoveryRSI) |
+| `Scaling Discovery` | [![arXiv](https://img.shields.io/badge/arXiv-2610.20563-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.20563)<br>Scaling Discovery Requires Forgetting | arXiv '26 | - | - |
+| `AReaL-RSI` | [![arXiv](https://img.shields.io/badge/arXiv-2610.18083-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.18083)<br>AReaL-RSI: Adaptive Scaling and Coordination of Recursive Self-Improvement | arXiv '26 | - | - |
+| `HarnessTTT` | [![arXiv](https://img.shields.io/badge/arXiv-2610.17370-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.17370)<br>HarnessTTT: Learn to Optimize Harness at Test-Time for Scientific Discovery | arXiv '26 | - | [![GitHub](https://img.shields.io/github/stars/skydiscover-ai/skydiscover)](https://github.com/skydiscover-ai/skydiscover) |
+| `Triage-PiEvo` | [![arXiv](https://img.shields.io/badge/arXiv-2610.14683-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.14683)<br>Triage-PiEvo: Evidence Admission for Principle-Evolving Scientific Agents | arXiv '26 | - | - |
+| `JANUS` | [![arXiv](https://img.shields.io/badge/arXiv-2610.13194-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.13194)<br>JANUS: Enhancing Long-Horizon Autonomous Research with Co-Evolving World Models | arXiv '26 | [Project](https://github.com/bilemond/JANUS) | - |
 ||
 | `ShinkaEvolve` | [![arXiv](https://img.shields.io/badge/arXiv-2509.19349-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2509.19349)<br>ShinkaEvolve: Towards Open-Ended and Sample-Efficient Program Evolution | arXiv 2025 | - | [![GitHub](https://img.shields.io/github/stars/SakanaAI/ShinkaEvolve)](https://github.com/SakanaAI/ShinkaEvolve) |
 | `Darwin Godel Machine` | [![arXiv](https://img.shields.io/badge/arXiv-2505.22954-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2505.22954)<br>Darwin Godel Machine: Open-Ended Evolution of Self-Improving Agents | arXiv 2025 | - | [![GitHub](https://img.shields.io/github/stars/jennyzzt/dgm)](https://github.com/jennyzzt/dgm) |
@@ -991,6 +1015,7 @@ Nine AI-generated posters -- six portrait and three landscape -- produced from t
 
 | Model | Paper | Venue | Website | GitHub |
 |:-:|:-|:-:|:-:|:-:|
+| `Research World Models` | [![arXiv](https://img.shields.io/badge/arXiv-2610.12235-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.12235)<br>Language Models as AI Research World Models | arXiv '26 | - | - |
 | `Runtime AI Scientist` | [![arXiv](https://img.shields.io/badge/arXiv-2610.00980-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.00980)<br>Can AI Scientists Coordinate at Runtime? | arXiv '26 | [Project](https://systemind-team.github.io/Runtime-AI-Scientist/) | [Code](https://github.com/systemind-team/Runtime-AI-Scientist) |
 | `Symposium` | [![arXiv](https://img.shields.io/badge/arXiv-2608.19511-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.19511)<br>Symposium: Trust via Auditable Records for Communities of AI Scientist Agents | arXiv 2026 | - | - |
 ||
