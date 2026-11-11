@@ -1131,6 +1131,7 @@ Nine AI-generated posters -- six portrait and three landscape -- produced from t
 | - | [![arXiv](https://img.shields.io/badge/arXiv-2607.23045-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2607.23045)<br>Stress-testing large language model agents in a robotic chemistry laboratory | arXiv '26 | - | - |
 | `Research Agent Reward Hacking` | [![arXiv](https://img.shields.io/badge/arXiv-2609.28614-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2609.28614)<br>Reward Hacking Challenges Oversight of Autonomous Research Agents | arXiv '26 | - | - |
 | `Agentic Economies` | [![arXiv](https://img.shields.io/badge/arXiv-2609.31562-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2609.31562)<br>Agentic Economies for Autonomous Scientific Discovery | arXiv '26 | - | - |
+| `SciΠvot` | [![arXiv](https://img.shields.io/badge/arXiv-2610.21082-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2610.21082)<br>SciΠvot: Benchmarking Principal-Investigator Judgment at Pivotal Moments of Scientific AutoResearch Agents | arXiv '26 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://autoresearch-factory.github.io/SciPIvot/) | [![GitHub](https://img.shields.io/github/stars/AutoResearch-Factory/SciPIvot)](https://github.com/AutoResearch-Factory/SciPIvot) |
 ||
 
 
