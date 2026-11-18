@@ -724,7 +724,7 @@ Nine AI-generated posters -- six portrait and three landscape -- produced from t
 |:-:|:-|:-:|:-:|:-:|
 | `Metag` | [![arXiv](https://img.shields.io/badge/arXiv-2608.20488-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2608.20488)<br>Metag: A dataset to build agentic meta-reviewing capabilities | arXiv '26 | - | - |
 ||
-| `AgentReview` | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://aclanthology.org/2024.emnlp-main.70/)<br>AgentReview: Exploring Peer Review Dynamics with LLM Agents | EMNLP '24 | - | - |
+| `AgentReview` | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://aclanthology.org/2024.emnlp-main.70/)<br>AgentReview: Exploring Peer Review Dynamics with LLM Agents | EMNLP '24 | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://agentreview.github.io/) | [![GitHub](https://img.shields.io/github/stars/Ahren09/AgentReview)](https://github.com/Ahren09/AgentReview) |
 | `Meta-Review LLMs` | [![Website](https://img.shields.io/badge/Link-yellow?style=flat-square&logo=gitbook)](https://aclanthology.org/2025.naacl-long.395/)<br>Meta-Review LLMs | NAACL '25 | - | - |
 | `RATE` | [![arXiv](https://img.shields.io/badge/arXiv-2601.19637-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2601.19637)<br>RATE: Reviewer Profiling and Annotation-free Training for Expertise Ranking in Peer Review Systems | arXiv '26 | - | - |
 | `MERIT` | [![arXiv](https://img.shields.io/badge/arXiv-2605.27865-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/abs/2605.27865)<br>MERIT: Matching Expertise via Rubric-Informed Training for Reviewer Assignment | arXiv '26 | - | - |
